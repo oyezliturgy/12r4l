@@ -1,0 +1,283 @@
+1. ookii  
+2. chiisai  
+3. hiroi  
+4. semai  
+5. takai  
+6. hikui  
+7. omoi  
+8. karui  
+9. chikai  
+10. tooi  
+11. ooi  
+12. sukunai  
+13. yoi  
+14. warui  
+15. subarashii  
+16. utsukushii  
+17. minikui  
+18. kouka na  
+19. yasui  
+20. yawarakai  
+21. katai  
+22. tsuyoi  
+23. yowai  
+24. nameraka na  
+25. arai  
+26. fukuzatsu na  
+27. omoshiroi  
+28. shitashimiyasui  
+29. otonashii  
+30. ganko na  
+31. yasashii  
+32. ureshii  
+33. kanashii  
+34. shakouteki na  
+35. kodoku na  
+36. okotta  
+37. hayai  
+38. osoi  
+39. kantan na  
+40. muzukashii  
+41. juuyou na  
+42. atarashii  
+43. furui  
+44. majime na  
+45. akai  
+46. aoi  
+47. midori no  
+48. kiiroi  
+49. kuroi  
+50. shiroi  
+51. kurai  
+52. akarui  
+53. azayaka na  
+54. bonyari shita  
+55. marui  
+56. shikakui  
+57. sankaku no  
+58. chouhoukei no  
+59. kyuutai no  
+60. rippoutai no  
+61. atsui  
+62. samui  
+63. mushimushi shita  
+64. atatakai  
+65. hadazamui  
+66. amai  
+67. shiokarai  
+68. suppai  
+69. nigai  
+70. karai  
+71. oishii  
+72. mazui  
+73. tanoshii  
+74. tsumaranai  
+75. anzen na  
+76. kiken na  
+77. kinkyuu no  
+78. ochitsuita  
+79. tadashii  
+80. ayamatta  
+81. wakai  
+82. toshi oita  
+83. genki na  
+84. byouki no  
+85. kirei na  
+86. kitanai  
+87. suteki na  
+88. hen na  
+89. seijou na  
+90. ijou na  
+91. kawaii  
+92. kichin to shita  
+93. miryokuteki na  
+94. miryoku no nai  
+95. futotta  
+96. yaseta  
+97. okanemochi na  
+98. mazushii  
+99. heikinteki na  
+100. daijoubu na  
+101. sugoi  
+102. taisetsu na  
+103. hazukashii  
+104. urayamashii  
+105. sabishii  
+106. kuyashii  
+107. komatta  
+108. osoroshii  
+109. kashikoi  
+110. majime na  
+111. nonki na  
+112. sekinin no aru  
+113. sekinin no nai  
+114. seijitsu na  
+115. fushinsetsu na  
+116. shoujiki na  
+117. usotsuki no  
+118. ganko na  
+119. sunao na  
+120. kekkou na  
+121. jiyuu na  
+122. fujiyuu na  
+123. benri na  
+124. fuben na  
+125. shizen na  
+126. ijigen no  
+127. seiketsu na  
+128. fuseiketsu na  
+129. seikaku na  
+130. fuseikaku na  
+131. kanzen na  
+132. fukanzen na  
+133. shiawase na  
+134. fushiawase na  
+135. kouun na  
+136. fukou na  
+137. seikou na  
+138. shippai na  
+139. anzen na  
+140. kiken na
+
+
+1. big  
+2. small  
+3. wide  
+4. narrow  
+5. tall; expensive  
+6. low  
+7. heavy  
+8. light (in weight)  
+9. close  
+10. far  
+11. many  
+12. few  
+13. good  
+14. bad  
+15. wonderful  
+16. beautiful  
+17. ugly  
+18. expensive  
+19. cheap  
+20. soft  
+21. hard  
+22. strong  
+23. weak  
+24. smooth  
+25. rough  
+26. complicated  
+27. interesting; funny  
+28. friendly  
+29. quiet  
+30. stubborn  
+31. kind  
+32. happy  
+33. sad  
+34. sociable  
+35. lonely  
+36. angry  
+37. fast  
+38. slow  
+39. easy  
+40. difficult  
+41. important  
+42. new  
+43. old  
+44. serious  
+45. red  
+46. blue  
+47. green  
+48. yellow  
+49. black  
+50. white  
+51. dark  
+52. bright  
+53. vivid  
+54. dull  
+55. round  
+56. square  
+57. triangular  
+58. rectangular  
+59. spherical  
+60. cubic  
+61. hot (weather)  
+62. cold (weather)  
+63. humid  
+64. warm  
+65. chilly  
+66. sweet  
+67. salty  
+68. sour  
+69. bitter  
+70. spicy  
+71. delicious  
+72. unappetizing  
+73. fun  
+74. boring  
+75. safe  
+76. dangerous  
+77. urgent  
+78. calm  
+79. correct  
+80. wrong  
+81. young  
+82. old (age)  
+83. lively  
+84. sick  
+85. clean; beautiful  
+86. dirty  
+87. nice  
+88. strange  
+89. normal  
+90. abnormal  
+91. cute  
+92. neat  
+93. attractive  
+94. unattractive  
+95. fat  
+96. thin  
+97. rich  
+98. poor  
+99. average  
+100. all right  
+101. amazing  
+102. precious  
+103. embarrassing  
+104. envious  
+105. lonely  
+106. regrettable  
+107. troubled  
+108. terrifying  
+109. smart  
+110. serious  
+111. easygoing  
+112. responsible  
+113. irresponsible  
+114. sincere  
+115. unkind  
+116. honest  
+117. dishonest  
+118. stubborn  
+119. obedient  
+120. splendid  
+121. free  
+122. inconvenient  
+123. convenient  
+124. inconvenient  
+125. natural  
+126. supernatural  
+127. sanitary  
+128. unsanitary  
+129. accurate  
+130. inaccurate  
+131. perfect  
+132. imperfect  
+133. happy  
+134. unhappy  
+135. fortunate  
+136. unfortunate  
+137. successful  
+138. unsuccessful  
+139. safe  
+140. dangerous 
+
